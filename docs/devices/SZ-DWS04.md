@@ -24,6 +24,12 @@ pageClass: device-page
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 
+## Pairing
+
+To enter pairing mode/reset to factory defaults:
+* With the battery removed, press and hold the tamper switch.
+* While holding the tamper switch, insert the battery. The sensor should illuminate the LED once all bootup/initialisation tasks are complete
+* Release the tamper switch while the LED is elluminated (i.e. within 4 seconds of inserting the battery)
 
 <!-- Notes END: Do not edit below this line -->
 
